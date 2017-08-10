@@ -1,0 +1,14 @@
+{
+    "name": "creativestyle/amazon-payments",
+    "type": "magento-module",
+    "description": "Integration of your Magento shop with Login and Pay with Amazon service",
+    "homepage": "https://github.com/sreichel/magento-Creativestyle-AmazonPayments",
+    "authors": [
+        {
+            "name": "creativestyle GmbH",
+            "email": "amazon@creativestyle.de",
+            "homepage": "https://www.creativestyle.de/",
+            "role": "Author/Maintainer"
+        }
+    ]
+}
